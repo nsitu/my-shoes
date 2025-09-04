@@ -5,9 +5,9 @@
   "footer": "Created by Harold Sikkema for <i>Databases and Dynamic Data</i> at Sheridan College",
   "shoes": [
     {
-      "name": "Orange Crocs",
+      "name": "Pink Crocs",
       "description": "A bit cringe, really.",
-      "background": "#FF6600"
+      "background": "#FFbbbb"
     },
     {
       "name": "Green Slippers",
